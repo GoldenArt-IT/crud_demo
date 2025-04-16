@@ -18,7 +18,7 @@ with st.form("add_staff"):
 # View staff
 
 st.subheader("All Staff")
-result_time = []
+result_time = {}
 result_time["start_time"] = time.time()
 
 res = requests.get(f"{API_BASE}/staff")
