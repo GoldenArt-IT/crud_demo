@@ -1,4 +1,4 @@
-# 🛠️ CRUD App: PostgreSQL + FastAPI + ngrok + Streamlit + GitHub + Streamlit Cloud
+# 🛠️ CRUD App: PostgreSQL + FastAPI + ngrok + Streamlit
 
 ## ✅ GOAL
 
